@@ -1,0 +1,28 @@
+.title {
+    font-size: 24px;
+    color: #F9FaF8;
+}
+
+.header {
+    background-color: #1f2937;
+    margin: 0px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.link {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.right {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
