@@ -26,3 +26,37 @@ body {
     gap: 20px;
     align-items: center;
 }
+
+.content {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+
+}
+
+.description {
+    font-size: 48px;
+    font-weight:bolder;
+    color: #F9FaF8;
+    width: 400px;
+}
+
+.paragraph {
+    font-size: 18px;
+    color: #e5e7eb;
+    font-weight: normal;
+}
+
+.signup {
+    background-color: #3882f6;
+    color: white;
+    border-radius: 5px;
+    height: 25px;
+    width: 85px;
+}
+
+.pic1 {
+    height: 300px;
+    width: 450px;
+}
