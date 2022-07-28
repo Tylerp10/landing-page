@@ -148,3 +148,14 @@ body {
     font-size: 24px;
     border-radius: 10px;
 }
+
+.footer {
+    background-color: #1f2937;
+    padding: 40px;
+}
+
+.message {
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+}
