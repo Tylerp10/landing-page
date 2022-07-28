@@ -94,3 +94,27 @@ body {
     text-align: center;
     font-size: 14px;
 }
+
+.quotebox {
+    padding: 100px;
+    text-align: center;
+    background-color:#e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    max-width: 850px;
+}
+
+.quotation {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.name {
+    font-weight: bold;
+    text-align: end;
+}
